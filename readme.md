@@ -11,6 +11,7 @@ This is the auto-lip-sync tool created by AI Spawn.
      * [Windows](#Windows)
      * [Ubuntu](#Ubuntu---Untested)
      * [Mac](#Mac---Untested)
+     * [Non-English Audio](#Non-English Translations)
 * [Setup](#setup)
      * [Timestamps](#timestamps)
      * [Script](#script)
@@ -161,6 +162,11 @@ Pull lowerquality/gentle from DockerHub:
 ```
 docker pull lowerquality/gentle
 ```
+
+### Non-English Audio
+
+If your audio is not in English, please follow additional installation instructions [here](aeneas.md)
+
 
 
 ## Setup

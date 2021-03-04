@@ -1,6 +1,5 @@
 opencv-python
 pillow
-ffmpeg
 argparse
 colorama
 requests
